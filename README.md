@@ -1,4 +1,4 @@
-# TodoManagementSpringBootBackend
+# Todo Management SpringBoot Backend
 
 Spring boot 2.2 - JWT - Restful 
 
